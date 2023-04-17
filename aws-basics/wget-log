@@ -1,0 +1,11 @@
+--2023-02-25 12:01:12--  https://rpms.litespeedtech.com/debian/enable_lst_debian_repo.sh
+Resolving rpms.litespeedtech.com (rpms.litespeedtech.com)... 52.55.120.73
+Connecting to rpms.litespeedtech.com (rpms.litespeedtech.com)|52.55.120.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3457 (3.4K) [application/x-sh]
+Saving to: ‘STDOUT’
+
+-                                                    0%[                                                                                                                ]       0  --.-KB/s               -                                                  100%[===============================================================================================================>]   3.38K  --.-KB/s    in 0s      
+
+2023-02-25 12:01:13 (183 MB/s) - written to stdout [3457/3457]
+
